@@ -1,4 +1,4 @@
 # SPORT SALES ANALYSIS
 # BY OFOLEBE CYNDI
-
-![ ] (Sport Sales Excel Project/fullscreen.png)
+---
+![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/sport_sales_logo.png)
