@@ -20,10 +20,17 @@ This data set was gotten from kaggle.com
 ---
 # SKILLS DEMONSTRATED
 * Data cleaning
-  - I identifiied blanks and missing data in the data set, I removed some of the blanks and filled in some of the missing datausing   necessary for the analysis using IFBLANK,
+  - I identifiied blanks and missing data in the data set, I removed some of the blanks and filled in some of the missing datausing   necessary for the analysis using IFBLANK and IFERROR
   - I also identified and removed duplicates and also corrected some of the typographical errors
   - I ensured the data types was properly formatted example date,currency to suit the analysis and ensure consistency
 * Data Manipulatlion
-  - Filtering and sorting was used to ensure uniformity and consistency across the data set
-  - Pivot tables were used in  data summarization thus making  analysis easier 
-
+  - Filtering ,grouping and sorting was used to ensure uniformity and consistency across the data set
+  - Pivot tables were used in data summarization thus making analysis easier
+  - VLOOKUP Function was used to retrieve data from tables
+* Chart Creation
+  - knowing which chart would better represent the dataset is a very crucial skill,different charts ranging from pie chart,doughnut and 
+    bar chart were used to communicate data insights through visual representation
+  - Creation of interactive charts such as slicers and filters which further enhances visual representation 
+  - Ability to select data ranges relevant for each chart cretion
+  - Expertise in customizing chart elements such as title,colour,label,legends and layouts
+  - 
