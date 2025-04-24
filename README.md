@@ -33,5 +33,5 @@ This data set was gotten from kaggle.com
   - Creation of interactive charts such as slicers and filters which further enhances visual representation 
   - Ability to select data ranges relevant for each chart creation
   - Expertise in customizing chart elements such as title,colour,label,legends and layouts
-* Dashboard Creation
-  - 
+* Analysis and Visualization
+  
