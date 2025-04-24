@@ -31,6 +31,7 @@ This data set was gotten from kaggle.com
   - knowing which chart would better represent the dataset is a very crucial skill,different charts ranging from pie chart,doughnut and 
     bar chart were used to communicate data insights through visual representation
   - Creation of interactive charts such as slicers and filters which further enhances visual representation 
-  - Ability to select data ranges relevant for each chart cretion
+  - Ability to select data ranges relevant for each chart creation
   - Expertise in customizing chart elements such as title,colour,label,legends and layouts
+* Dashboard Creation
   - 
