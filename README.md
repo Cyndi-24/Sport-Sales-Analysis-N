@@ -16,8 +16,14 @@ Using this data set I will be studying the sales pattern and demand thus devisin
 * What are the top sub-categories by order volume?
 ---
 # DATA SOURCING
-This data set was  
+This data set was gotten from kaggle.com 
 ---
 # SKILLS DEMONSTRATED
 * Data cleaning
+  - I identifiied blanks and missing data in the data set, I removed some of the blanks and filled in some of the missing datausing   necessary for the analysis using IFBLANK,
+  - I also identified and removed duplicates and also corrected some of the typographical errors
+  - I ensured the data types was properly formatted example date,currency to suit the analysis and ensure consistency
+* Data Manipulatlion
+  - Filtering and sorting was used to ensure uniformity and consistency across the data set
+  - Pivot tables were used in  data summarization thus making  analysis easier 
 
