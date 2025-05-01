@@ -36,8 +36,8 @@ This data set was gotten from kaggle.com
 * Analysis and Visualization
   - Which Gender had the most patronage?
 
-     ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/patronage_by_gender.png)
+  - ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/patronage_by_gender.png)
 
   - What revenue is generatted by each country?
  
-  - ![image alt](
+  - ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Revenue_generated_by_counry.png)
