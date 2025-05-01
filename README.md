@@ -34,4 +34,5 @@ This data set was gotten from kaggle.com
   - Ability to select data ranges relevant for each chart creation
   - Expertise in customizing chart elements such as title,colour,label,legends and layouts
 * Analysis and Visualization
-  
+  - Which Gender had the most patronage?
+  ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/gender.png)
