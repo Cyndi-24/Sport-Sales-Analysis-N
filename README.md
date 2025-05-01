@@ -48,4 +48,8 @@ Using this data set I will be studying the sales pattern and demand thus devisin
 
  - Breakdown of product category in the us    
     
+   ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/product_category_breakdown.png)
+
+ - Top Subcategories by order volume?
+
    ![image alt](
