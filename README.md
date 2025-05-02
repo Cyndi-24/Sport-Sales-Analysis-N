@@ -58,4 +58,4 @@ Using this data set I will be studying the sales pattern and demand thus devisin
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_revenue.png)
 
 -  Total Profit From 2011-2016
-   ![image alt](
+   ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/total_profit.png)
