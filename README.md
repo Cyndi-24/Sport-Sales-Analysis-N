@@ -78,7 +78,12 @@ Using this data set I will be studying the sales pattern and demand thus devisin
    ---
  # Recommendation and Conclusion
    Here are my recommendations
-   * For countries which generated lower revenue such as ;Canada,France and Germany proper investigation should be done to fins out the 
-     reason behind the low sales and the marketing team should develope a good marketing campaign to further promote sales in this 
-     countries which would include targeted and promotional ads in order to boost sales 
+   * For countries which generated lower revenue such as ;Canada,France and Germany proper investigation should be done to find out the 
+     reason behind the low sales and the marketing team should develope a good marketing campaign to further reach out to more customers 
+     and promote sales in these countries which could include targeted ads.
+  * Promotional sales in form of discount or special offers  can be introduced more often to boost sales especially for high demand and 
+    fast selling products.
+  * According to patronage by gender there seemed to be more males than females,investigations should be carried out to find out why and 
+    how to promote customer patronage by females.
+  * For high demand products  such as the bikes,tire and tubesa efforts should be made to ensure that these products are always in stock 
  
