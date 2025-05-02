@@ -33,7 +33,8 @@ Using this data set I will be studying the sales pattern and demand thus devisin
   - Creation of interactive charts such as slicers and filters which further enhances visual representation 
   - Ability to select data ranges relevant for each chart creation
   - Expertise in customizing chart elements such as title,colour,label,legends and layouts
-* Analysis and Visualization
+    
+# Analysis and Visualization
   - Which Gender had the most patronage?
     
  ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/patronage_by_gender.png)
@@ -54,11 +55,11 @@ Using this data set I will be studying the sales pattern and demand thus devisin
 
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Subcategories_by_%20ordervolume.png)
 
- - Total Revenue From 2011-2016
+ - Total Revenue  over a period of 5 yearsFrom 2011-2016
    
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_revenue.png)
 
- - Total Profit From 2011-2016
+ - Total Profit over a period of 5years From 2011-2016
   
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/total_profit.png)
 
@@ -66,10 +67,18 @@ Using this data set I will be studying the sales pattern and demand thus devisin
 
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_quantity_sold.png)
 
- - Average order value
+ - Average order value ; This shows what each customer spends on average 
    
     ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/avg_order_value.png)
 
  - Total Orders
    
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_order.png)
+
+   ---
+ # Recommendation and Conclusion
+   Here are my recommendations
+   * For countries which generated lower revenue such as ;Canada,France and Germany proper investigation should be done to fins out the 
+     reason behind the low sales and the marketing team should develope a good marketing campaign to further promote sales in this 
+     countries which would include targeted and promotional ads in order to boost sales 
+ 
