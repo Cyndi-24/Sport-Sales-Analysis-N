@@ -64,4 +64,6 @@ Using this data set I will be studying the sales pattern and demand thus devisin
 
  - Total Quantity sold
 
+   ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_quantity_sold.png)
+
     ![image alt](
