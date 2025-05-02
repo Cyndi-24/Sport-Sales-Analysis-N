@@ -85,5 +85,5 @@ Using this data set I will be studying the sales pattern and demand thus devisin
     fast selling products.
   * According to patronage by gender there seemed to be more males than females,investigations should be carried out to find out why and 
     how to promote customer patronage by females.
-  * For high demand products  such as the bikes,tire and tubesa efforts should be made to ensure that these products are always in stock 
+  * For high demand products  such as the bikes,tires and tubes efforts should be made to ensure that these products are always in stock 
  
