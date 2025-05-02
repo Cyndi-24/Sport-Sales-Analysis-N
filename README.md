@@ -70,4 +70,4 @@ Using this data set I will be studying the sales pattern and demand thus devisin
     ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/avg_order_value.png)
 
  - Total Orders
- - ![image alt](
+ - ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_order.png)
