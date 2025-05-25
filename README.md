@@ -5,6 +5,7 @@
 ---
 # INTRODUCTION
  I decided to take up this project to improve my data analytics skills and gain more experience
+ 
 ---
 # PROBLEM STATEMENT
 The company collected data over a four year period on customer demographics,purchasing history ,quantity purchased, product type,product price ,purchase date and other relevant information . 
@@ -17,6 +18,7 @@ Using this data set I will be studying the sales pattern and demand thus devisin
 ---
 # DATA SOURCING
  This data set was gotten from kaggle.com
+ 
 ---
 # SKILLS DEMONSTRATED
 * Data cleaning
@@ -34,7 +36,7 @@ Using this data set I will be studying the sales pattern and demand thus devisin
   - Ability to select data ranges relevant for each chart creation
   - Expertise in customizing chart elements such as title,colour,label,legends and layouts
     
-# Analysis and Visualization
+# ANALYSIS AND VISUALIZATION
   - Which Gender had the most patronage?
     
  ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/patronage_by_gender.png)
@@ -76,7 +78,7 @@ Using this data set I will be studying the sales pattern and demand thus devisin
    ![image alt](https://github.com/Cyndi-24/Sport-Sales-Analysis-N/blob/main/Sport%20Sales%20Excel%20Project/Total_order.png)
 
    ---
- # Recommendation and Conclusion
+ # RECOMMENDATION AND CONCLUSION
    Here are my recommendations
    * For countries which generated lower revenue such as ;Canada,France and Germany proper investigation should be done to find out the 
      reason behind the low sales and the marketing team should develope a good marketing campaign to further reach out to more customers 
